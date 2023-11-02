@@ -1,3 +1,3 @@
 # Fuck163MusicTasks-Action
 
-make a push
+make 2 pushes
